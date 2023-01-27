@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "me.ed333",
+    "module": "EdToolKits",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "EdToolKits-1.0.1.jar",
+          "url": "EdToolKits-1.0.1.jar",
+          "size": 61131,
+          "sha512": "aa5cf2766513844e35b752bca74db2a79ce056e09feef4ad5d78b07af441b1c1a0e330cb977513211aae8e85aad3eff36d43c155e0d84a3980581c6cf4fb17ea",
+          "sha256": "211579753cd95c3f2b3a9dad4f870506d5164011687c8f6266a7fc3a58f59fb3",
+          "sha1": "7813dbb1631283db0ac09e32e904699352318719",
+          "md5": "243d99e6f4ae7c99570d731e0c7762ea"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "EdToolKits-1.0.1.jar",
+          "url": "EdToolKits-1.0.1.jar",
+          "size": 61131,
+          "sha512": "aa5cf2766513844e35b752bca74db2a79ce056e09feef4ad5d78b07af441b1c1a0e330cb977513211aae8e85aad3eff36d43c155e0d84a3980581c6cf4fb17ea",
+          "sha256": "211579753cd95c3f2b3a9dad4f870506d5164011687c8f6266a7fc3a58f59fb3",
+          "sha1": "7813dbb1631283db0ac09e32e904699352318719",
+          "md5": "243d99e6f4ae7c99570d731e0c7762ea"
+        }
+      ]
+    }
+  ]
+}
