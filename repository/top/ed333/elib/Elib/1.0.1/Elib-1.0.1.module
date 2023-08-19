@@ -27,11 +27,11 @@
         {
           "name": "Elib-1.0.1.jar",
           "url": "Elib-1.0.1.jar",
-          "size": 92808,
-          "sha512": "5cd0798cb572288aa03d9eff250c75a36fa11d3c593071860c0e8daba7f3c60a85d6e84c6b7e94a9ba729b530165898465c7632c4e00951b1a1e2f56660a62da",
-          "sha256": "652cdd13c293e38c48007c3362db1f78408ad17a42688c0f59a2c3224f96c045",
-          "sha1": "3a89ddb74bcd65c30fa505fca290f100382944f1",
-          "md5": "3837fb91672a717b49f5b79d37a83f7c"
+          "size": 92952,
+          "sha512": "d91ddeed1546a9ac0f02fbb0e0b86b01172bae064208a2a885cb05cd0e1bc2522ed6f1ebae65069beedf03b95c81cfe9697850504f56cc2666c556facc184872",
+          "sha256": "e7c1cc745fbac0bd7c653473b3e5bbd69ffdc4debee0913752d8f4cd31b52ed4",
+          "sha1": "06ac9aeac1e4aa6fad74110f17bfddbb019f671c",
+          "md5": "9d6b067ad33057a6f3978c226a1eab4d"
         }
       ]
     },
@@ -48,11 +48,11 @@
         {
           "name": "Elib-1.0.1.jar",
           "url": "Elib-1.0.1.jar",
-          "size": 92808,
-          "sha512": "5cd0798cb572288aa03d9eff250c75a36fa11d3c593071860c0e8daba7f3c60a85d6e84c6b7e94a9ba729b530165898465c7632c4e00951b1a1e2f56660a62da",
-          "sha256": "652cdd13c293e38c48007c3362db1f78408ad17a42688c0f59a2c3224f96c045",
-          "sha1": "3a89ddb74bcd65c30fa505fca290f100382944f1",
-          "md5": "3837fb91672a717b49f5b79d37a83f7c"
+          "size": 92952,
+          "sha512": "d91ddeed1546a9ac0f02fbb0e0b86b01172bae064208a2a885cb05cd0e1bc2522ed6f1ebae65069beedf03b95c81cfe9697850504f56cc2666c556facc184872",
+          "sha256": "e7c1cc745fbac0bd7c653473b3e5bbd69ffdc4debee0913752d8f4cd31b52ed4",
+          "sha1": "06ac9aeac1e4aa6fad74110f17bfddbb019f671c",
+          "md5": "9d6b067ad33057a6f3978c226a1eab4d"
         }
       ]
     }
