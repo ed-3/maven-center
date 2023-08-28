@@ -3,11 +3,12 @@
   <groupId>top.ed333.elib</groupId>
   <artifactId>Elib</artifactId>
   <versioning>
-    <latest>1.0.1</latest>
-    <release>1.0.1</release>
+    <latest>1.0.1-pre</latest>
+    <release>1.0.1-pre</release>
     <versions>
       <version>1.0.1</version>
+      <version>1.0.1-pre</version>
     </versions>
-    <lastUpdated>20230819010833</lastUpdated>
+    <lastUpdated>20230828235037</lastUpdated>
   </versioning>
 </metadata>

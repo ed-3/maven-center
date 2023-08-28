@@ -3,7 +3,7 @@
   "component": {
     "group": "top.ed333.elib",
     "module": "Elib",
-    "version": "1.0.1",
+    "version": "1.0.1-pre",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,8 +25,8 @@
       },
       "files": [
         {
-          "name": "Elib-1.0.1.jar",
-          "url": "Elib-1.0.1.jar",
+          "name": "Elib-1.0.1-pre.jar",
+          "url": "Elib-1.0.1-pre.jar",
           "size": 95127,
           "sha512": "a618d1be7ba0b30eae6f66a3eb70eb6824304dc12dc42646036cb7d57c9b19c596067879419953aef2c123be6ab3bc8c552dd4c67040c19f20a94a32092d47f3",
           "sha256": "10ca5b38144727fdae0fcb5b3097f7ab393022e68b9fbbcb29d9aec1629382a1",
@@ -46,8 +46,8 @@
       },
       "files": [
         {
-          "name": "Elib-1.0.1.jar",
-          "url": "Elib-1.0.1.jar",
+          "name": "Elib-1.0.1-pre.jar",
+          "url": "Elib-1.0.1-pre.jar",
           "size": 95127,
           "sha512": "a618d1be7ba0b30eae6f66a3eb70eb6824304dc12dc42646036cb7d57c9b19c596067879419953aef2c123be6ab3bc8c552dd4c67040c19f20a94a32092d47f3",
           "sha256": "10ca5b38144727fdae0fcb5b3097f7ab393022e68b9fbbcb29d9aec1629382a1",
