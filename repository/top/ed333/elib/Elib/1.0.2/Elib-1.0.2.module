@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "top.ed333.elib",
+    "module": "Elib",
+    "version": "1.0.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "Elib-1.0.2.jar",
+          "url": "Elib-1.0.2.jar",
+          "size": 95161,
+          "sha512": "2e9c6d2c5f142d13d48ccacbbc41792ff86f7d53a21f51bae1a198f1477bb8404ad964093bb5bb62c832952b0800d9640dc447807af0b41324a2a85543318fb5",
+          "sha256": "0d66684c196fc53dee55b3d083bc3d277a0f3250ef06b87184c1e2ddc3d5ed13",
+          "sha1": "b5c11c2e4981526e1d01642ca4f1151de5a0a6d3",
+          "md5": "66d5a93e538a51999c021761f9036214"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "Elib-1.0.2.jar",
+          "url": "Elib-1.0.2.jar",
+          "size": 95161,
+          "sha512": "2e9c6d2c5f142d13d48ccacbbc41792ff86f7d53a21f51bae1a198f1477bb8404ad964093bb5bb62c832952b0800d9640dc447807af0b41324a2a85543318fb5",
+          "sha256": "0d66684c196fc53dee55b3d083bc3d277a0f3250ef06b87184c1e2ddc3d5ed13",
+          "sha1": "b5c11c2e4981526e1d01642ca4f1151de5a0a6d3",
+          "md5": "66d5a93e538a51999c021761f9036214"
+        }
+      ]
+    }
+  ]
+}
