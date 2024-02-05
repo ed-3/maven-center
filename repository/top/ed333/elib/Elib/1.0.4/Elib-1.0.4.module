@@ -3,7 +3,7 @@
   "component": {
     "group": "top.ed333.elib",
     "module": "Elib",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "Elib-1.0.3.jar",
-          "url": "Elib-1.0.3.jar",
+          "name": "Elib-1.0.4.jar",
+          "url": "Elib-1.0.4.jar",
           "size": 130987,
-          "sha512": "747c1111a3d59543f41e18cc2296f9af014c0b66046ff5e45cf9d0a5154b739ed25740e4fc81578e5c5ce60b7363e920cf560e8e0c47b2f8c9cddcddcfe4f49a",
-          "sha256": "af0bb709cfcd8da5e67c6a44a3aad3d60b39721f4b98fb5964bc77a50f34d436",
-          "sha1": "7684c4eb3cd4eff65b1e2ad0895600fea34a1798",
-          "md5": "13c0f8557e5fc9f42cfdb0ec1dcdee5e"
+          "sha512": "5d12607b288e518c8077e5f6bdd3bf0fb389838113f0f5b29a2ddeaf1729ed861d465f19217db43e69f30b5aedac219b35251a90c9639b388e442ee223be47f8",
+          "sha256": "6aab14a762c02b1b8b0858e51209592e662122273fcae4afa1577745a0fc7c26",
+          "sha1": "9bd6f21825ddc085666c459cc71f3a91cc9f306a",
+          "md5": "4ce1e769545fff7bde033a729f04c2f4"
         }
       ]
     },
@@ -125,13 +125,13 @@
       ],
       "files": [
         {
-          "name": "Elib-1.0.3.jar",
-          "url": "Elib-1.0.3.jar",
+          "name": "Elib-1.0.4.jar",
+          "url": "Elib-1.0.4.jar",
           "size": 130987,
-          "sha512": "747c1111a3d59543f41e18cc2296f9af014c0b66046ff5e45cf9d0a5154b739ed25740e4fc81578e5c5ce60b7363e920cf560e8e0c47b2f8c9cddcddcfe4f49a",
-          "sha256": "af0bb709cfcd8da5e67c6a44a3aad3d60b39721f4b98fb5964bc77a50f34d436",
-          "sha1": "7684c4eb3cd4eff65b1e2ad0895600fea34a1798",
-          "md5": "13c0f8557e5fc9f42cfdb0ec1dcdee5e"
+          "sha512": "5d12607b288e518c8077e5f6bdd3bf0fb389838113f0f5b29a2ddeaf1729ed861d465f19217db43e69f30b5aedac219b35251a90c9639b388e442ee223be47f8",
+          "sha256": "6aab14a762c02b1b8b0858e51209592e662122273fcae4afa1577745a0fc7c26",
+          "sha1": "9bd6f21825ddc085666c459cc71f3a91cc9f306a",
+          "md5": "4ce1e769545fff7bde033a729f04c2f4"
         }
       ]
     }

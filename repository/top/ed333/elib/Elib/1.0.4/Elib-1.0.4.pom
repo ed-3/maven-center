@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>top.ed333.elib</groupId>
   <artifactId>Elib</artifactId>
-  <version>1.0.3</version>
+  <version>1.0.4</version>
   <dependencies>
     <dependency>
       <groupId>org.junit.jupiter</groupId>
